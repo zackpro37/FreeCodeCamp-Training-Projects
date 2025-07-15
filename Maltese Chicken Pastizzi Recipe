@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+  <meta charset="UTF-8"/>
+  <title>How to make a  
+  Chicken Pastizzi</title>
+</head>
+<body>
+  <h1>Chicken Pastizzi</h1> 
+  <p>Welcome to the ultimate guide for making Chicken Pastizzi! These golden, flaky pastries are the perfect hand-held savory snack - crispy on the outside, packed with juicy, flavorful chicken on the inside.</p>
+  <p>Whether you're feeding a crowd or meal-prepping, this simple recipe will have you cranking out irresistible bakery-style pastizzi with a personal twist</p>
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Chicken Pastizzi">
+  <h2>Ingredients</h2>
+  <ul>
+  <p><em>For the Filling</em></p>
+    <li>2 tablespoons olive oil</li>
+    <li>1 medium onion, finely chopped</li>
+    <li>2 garlic cloves, minced</li>
+    <li>250g cooked chicken breast, shredded (rotisserie or poached works well)</li>
+    <li>1 teaspoon curry powder (or substitute with paprika + cumin + turmeric for DIY spice)</li>
+    <li>Salt & black pepper, to taste</li>
+    <li>1 tablespoon tomato paste (optional, for richer flavor)</li>
+    <li>2 tablespoons chicken stock or water</li>
+    <li>A handful of chopped fresh parsley or coriander (optional but tasty)</li>
+  </ul>
+  <p><em>For the Pastry</em></p>
+  <ul>
+    <li>1 package frozen puff pastry sheets (thawed)</li>
+    <li>1 egg, beaten (for egg wash)</li>
+  </ul>
+  <p>These ingredients give you a versatile filling - mildly spiced, juicy, and flavorful - while the puff pastry gives you that iconic crispy shell. 
+  <h2>Instructions</h2>
+    <ol>
+      <li>Preheat your oven to 200°C (390°F) and line a baking sheet with parchment paper.</li>
+      <li>In a skillet over medium heat, heat the olive oil. Sauté the chopped onion until soft (about 5 minutes), then add the garlic and cook for 1 more minute.</li>
+      <li>Stir in the shredded chicken, curry powder, tomato paste (if using), salt, pepper, and stock or water. Cook until the mixture is warmed through and slightly thickened. Stir in fresh herbs if desired. Let cool slightly.</li>
+      <li>Let Cool</li>
+    </ol>
+</body>
+</html>
