@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+      <h1>The Wonders of Space Exploration</h1>
+      <p>Space exploration has expanded our understanding of the universe and inspired generations. Below are some great videos highlighting different aspects of space and travel.</p>
+      <section>
+          <h2>The Apollo Missions</h2>
+          <p>The Apollo program was a series of space missions that landed humans on the Moon and brought them safely back to Earth</p>
+          <iframe
+            src="https://www.youtube.com/embed/wwMDvPCGeE0"
+            title="Apollo Missions Documentary"
+            width="560"
+            height="315">
+          </iframe>
+      </section>
+
+      <section>
+          <h2>The International Space Station</h2>
+          <p>The ISS is a laboratory orbiting Earth where astronauts conduct experiments</p>
+          <iframe
+            src="https://www.youtube.com/embed/Ki_Af_o9Q9s"
+            title="ISS Tour Video"
+            width="560"
+            height="315">
+          </iframe>
+      </section>
+
+      <section>
+          <h2>The Future of Space Travel</h2>
+          <p>Private companies are shaping the future of space exploration.</p>
+          <iframe
+            src="https://www.youtube.com/embed/CXQd4v5m4nU"
+            title="Future of Space Travel"
+            width="560"
+            height="315">
+          </iframe>
+      </section>
+    </main>
+</body>
+</html>
