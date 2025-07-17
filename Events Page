@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Event Hub</title>
+</head>
+
+<body>
+  <header>
+    <h1>Event Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="#upcoming-events">Upcoming Events</a></li>
+        <li><a href="#past-events">Past Events</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="upcoming-events">
+      <h2>Upcoming Events</h2>
+
+      <article>
+        <h3>Fiction Fundamentals: Character & Conflict</h3>
+        <p>
+          Join us for an immersive session on how to craft unforgettable characters and drive your story forward with compelling conflict. Perfect for writers looking to sharpen their narrative edge.
+        </p>
+      </article>
+
+      <article>
+        <h3>World-Building for Fantasy & Sci-Fi</h3>
+        <p>
+          Design intricate universes, believable magic systems, and futuristic societies. This workshop is ideal for authors seeking to add depth and realism to their speculative fiction.
+        </p>
+      </article>
+    </section>
+
+    <section id="past-events">
+      <h2>Past Events</h2>
+
+        <article>
+          <h3>Memoir Writing: Truth & Transformation</h3>
+          <p>
+            Writers explored the delicate art of personal storytelling. Through exercises and peer feedback, attendees learned how to turn memory into powerful, publishable prose.
+          </p>
+          <p><strong>Date:</strong> July 15, 2024</p>
+          <img src=""https://images.unsplash.com/photo-1581091226825-a6a2a5aee158" alt="Workshop participants sharing personal stories during the memoir session">"
+        </article>
+        
+        <article>
+          <h3>Poetry in Motion: Voice & Visual</h3>
+          <p>
+            A multidisciplinary poetry event blending spoken word, visual poetry, and collaborative creation. Writers and artists teamed up to express emotion through language and form.
+          </p>
+          <p><strong>Date:</strong> July 20, 2024</p>
+          <img src="https://images.unsplash.com/photo-1524985069026-dd778a71c7b4" alt="Creative writing desk">
+        </article>
+    </section>
+  </main>
+</body>
+
+</html>
